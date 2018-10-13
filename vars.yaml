@@ -1,0 +1,4 @@
+interface: eth0
+target_network: 10.0.0.0/24
+target_ip:
+gateway:
