@@ -15,5 +15,5 @@ Probably going to want to put it in a screen or background it. <br>
 ~~~~
 $ python arper.py 
 or, to background:
-$ python arper.py &`
+$ python arper.py &
 ~~~~
